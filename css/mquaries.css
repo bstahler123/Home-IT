@@ -1,0 +1,28 @@
+@media (max-width: 900px) {
+#about{
+    padding-top: 100px;
+
+    
+}
+.change-me{
+    height: 800px;
+}
+
+.carousel-inner{
+    height: auto;
+    padding-top: 50px;
+}
+
+#cta    {
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+#cta2   {
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+  }
