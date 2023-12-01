@@ -58,7 +58,9 @@
 
 
 }
-
+.form{
+    width: 750px;
+}
 
 .welcome-bot{
     font-family: 'Orbitron', sans-serif;
