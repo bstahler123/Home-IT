@@ -8,6 +8,12 @@
     height: 800px;
 }
 
+.welcome-bot{
+    font-size: 40px;
+    letter-spacing: 5px;
+
+}
+
 .carousel-inner{
     height: auto;
     padding-top: 50px;
@@ -24,5 +30,13 @@
     margin-bottom: 5px;
 
 }
+
+  }
+
+  @media (max-width: 800px) {
+
+
+    
+
 
   }
